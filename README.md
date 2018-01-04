@@ -1,2 +1,3 @@
 # woldirepo
-This is my first step repository
+This is my repository
+Here is where all those changes will happen. 
